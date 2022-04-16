@@ -1,0 +1,176 @@
+body{
+    background: linear-gradient(to right, rgb(255, 241, 119), rgb(250, 119, 250));
+}
+.title{
+    border: solid 1px rgb(255,200,124);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 250px;
+    padding: 25px 1px 1px 25px;
+    margin: 7px 1px 5px 150px;
+    background-color: rgb(255,200,124);
+
+    
+}
+#dribbble{
+    font-family: 'Updock', cursive;
+    font-size: x-large;
+    margin: 1px;
+    color: rgb(88, 88, 34);
+}
+.title img{
+    width: 300px;
+    margin-left: -15%;
+    margin-top: 40%;
+}
+#text{
+    color: rgb(121, 121, 66);
+    margin-top: 2px;
+}
+.title p{
+    font-size: x-small;
+    margin-bottom: 20px;
+}
+.information{
+    border: solid 1px white;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 450px;
+    padding: 25px 1px 1px 25px;
+    background-color: white;
+    /* margin-left: 1%;
+    margin-top: 2%; */
+    margin: 7px 100px 5px -1px;
+    /* height: 95vh; */
+}
+.container{
+    align-items: center;
+}
+.details header{
+    width: 200px;
+    margin-left: 270px;
+}
+#sign-up{
+    margin-top: 50px;
+    margin-left: 60px;
+    font-weight: bold;
+    font-size: large;
+}
+.icons{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+#google{
+    border: solid 0px #418EF2;
+    border-radius: 5px;
+    padding: 1px 40px 8px 10px;
+    color: white;
+    background-color:#418EF2;
+}
+#ggle{
+    width: 20px;
+    padding-right: 10px;
+    padding-top: 6px;
+}
+#twitt{
+    width: 30px;
+}
+#fbook{
+    width: 37px;
+    margin-left: 40px;
+}
+.symbols{
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.rule{
+    display: flex;
+}
+.firstline{
+    margin-left: 60px;
+    margin-right: 20px;
+    height: 1px;
+    border: none;
+}
+.secondline{
+    margin-left: 20px;
+    height: 1px;
+    border: none; 
+}
+.user-details{
+    display: flex;
+    margin-left: 59px;
+}
+.label{
+    font-weight: bold;
+}
+.name input{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background-color: rgb(219,219,219);
+    margin-top: 5px;
+    font-size: large;
+}
+.username{
+    margin-left: 50px;
+}
+.username input{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background-color: rgb(219,219,219);
+    margin-top: 5px;
+    font-size: large;
+}
+.email input{
+    width: 355px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background-color: rgb(219,219,219);
+    margin-top: 5px;
+    font-size: large;
+}
+.password input{
+    width: 355px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background-color: rgb(219,219,219);
+    margin-top: 5px;
+    font-size: small;
+}
+.email{
+    margin-left: 59px;
+}
+.password{
+    margin-left: 59px;
+}
+.terms{
+    margin-left: 57px;
+    margin-top: 15px;
+    font-size: 14px;
+}
+.press{
+    margin-left: 57px;
+    margin-top: 15px;
+    color: white;
+    background-color: rgb(255, 20, 147);
+    width: 150px; 
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+header{
+    float: right;
+    margin-right: 10%;
+}
+
